@@ -97,4 +97,33 @@ Changes not staged for commit:
 	[31mmodified:   terminal_data.txt[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004h
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit status[10Dvi .gitignore[13Dls -a        [8Dgit statuscommit -m ".gitignore added"[28Dstatus                      [22Dadd . [?2004l
+]633;C]633;E;git add .[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit add .status[10Dvi .gitignore[13Dgit status   [?2004l
+]633;C]633;E;git statusOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   .gitignore[m
+	[32mmodified:   terminal_data.txt[m
+
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit statusadd . status[10Dvi .gitignore[13Dls -a        [8Dgit status      commit -m "updated  i ed gitignore "[?2004l
+]633;C]633;E;git commit -m "updated gitignore"[master b5a4668] updated gitignore
+ Committer: Aayush Bhatt <aayushbhatt@Aayushs-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 63 insertions(+), 2 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
+]633;C]633;E;git statusOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit  g  ggit g  eexit[?2004l
+]633;C]633;E;exit
+Script done on Wed Nov 23 14:44:29 2022

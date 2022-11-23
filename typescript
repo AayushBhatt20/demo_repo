@@ -1,0 +1,46 @@
+Script started on Wed Nov 23 14:44:48 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
+]633;C]633;E;git statusOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   terminal_data.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit add    g  lls[?2004l
+]633;C]633;E;lsdemopy.py		terminal_data.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hrrm termina       r  ggit add .[?2004l
+]633;C]633;E;git add .[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
+]633;C]633;E;git statusOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   terminal_data.txt[m
+	[32mnew file:   typescript[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hvvi .gitignore[?2004l
+]633;C]633;E;vi .gitignore[?1049h[>4;2m[?1h=[?2004h[?1004h[1;15r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[15;1H".gitignore" 1L, 20B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H*.terminal_data.txt
+[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[27m[29m[m[H[2J[?25l[1;1H*.terminal_data.txt
+[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [m[15;1H".gitignore" 1L, 20B[1;1H[?25h*.terminal_data.tx[?25l[15;1H[1m-- INSERT --[m[15;14H[K[1;19H[?25ht[?25l[2;1H[K[2;1H[?25h[?25l*[?25h[?25l.[?25h[?25lt[?25h[?25ly[?25h[?25lp[?25h[?25le[?25h[?25ls[?25h[?25lc[?25h[?25lr[?25h[?25lp[?25h[?25l[2;10H[K[2;10H[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25ly[?25h[?25l[2;13H[K[2;13H[?25h[15;1H[K[2;12H[?25l[?25h[?25l[15;1H:[?25hwq[?25l[?2004l[>4;m".gitignore" 2L, 33B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
+]633;C]633;E;git statusOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   terminal_data.txt[m
+	[32mnew file:   typescript[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .gitignore[m
+	[31mmodified:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hg
