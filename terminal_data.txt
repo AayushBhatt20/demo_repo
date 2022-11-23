@@ -1,129 +1,0 @@
-Script started on Wed Nov 23 14:37:14 2022
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004h[?2004l
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;C]633;E;]633;D]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
-]633;C]633;E;git statusOn branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mterminal_data.txt[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit add .[?2004l
-]633;C]633;E;git add .[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit commit -m "ternm  minal_data scripting started"[?2004l
-]633;C]633;E;git commit -m "terminal_data scripting started"[master 11eeda0] terminal_data scripting started
- Committer: Aayush Bhatt <aayushbhatt@Aayushs-MacBook-Pro.local>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
-
-    git config --global --edit
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 1 insertion(+)
- create mode 100644 terminal_data.txt
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
-]633;C]633;E;git statusOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   terminal_data.txt[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hlls -a[?2004l
-]633;C]633;E;ls -a.			..			.git			demopy.py		terminal_data.txt
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hvvi .giy tignore[?2004l
-]633;C]633;E;vi .gitignore[?1049h[>4;2m[?1h=[?2004h[?1004h[1;15r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[15;1H".gitignore" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[27m[29m[m[H[2J[?25l[2;1H[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [m[15;1H".gitignore" [New][1;1H[?25h[?25l[15;1H[1m-- INSERT --[m[15;14H[K[1;1H[?25h[?25lb[?25h[?25l[1;1H[K[1;1H[?25h[?25ln[?25h[?25la[?25h[?25ll[?25h[?25l_[?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25la[?25h[?25l[1;8H[K[1;8H[?25h[?25l[1;7H[K[1;7H[?25h[?25l[1;6H[K[1;6H[?25h[?25l[1;5H[K[1;5H[?25h[?25l[1;4H[K[1;4H[?25h[?25l[1;3H[K[1;3H[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[?25li[?25h[?25l[1;1H[K[1;1H[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25lm[?25h[?25li[?25h[?25lb[?25h[?25ln[?25h[?25l[1;7H[K[1;7H[?25h[?25l[1;6H[K[1;6H[?25h[?25ln[?25h[?25la[?25h[?25ll[?25h[?25l_[?25h[?25l.terminal_.[?25hterminal_[?25ld[?25h[?25la[?25h[?25lt[?25h[?25la[?25h[?25l.[?25h[?25lt[?25h[?25lx[?25h[?25lt[?25h[15;1H[K[1;18H[?25l[?25h[?25l[15;1H:[?25hwq[?25l[?2004l[>4;m".gitignore" [New] 1L, 19B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
-]633;C]633;E;git statusOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   terminal_data.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.gitignore[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit add .[?2004l
-]633;C]633;E;git add .[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
-]633;C]633;E;git statusOn branch master
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mnew file:   .gitignore[m
-	[32mmodified:   terminal_data.txt[m
-
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit commit -m ".gitignore added"[?2004l
-]633;C]633;E;git commit -m ".gitignore added"[master dae6ada] .gitignore added
- Committer: Aayush Bhatt <aayushbhatt@Aayushs-MacBook-Pro.local>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
-
-    git config --global --edit
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 2 files changed, 39 insertions(+)
- create mode 100644 .gitignore
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit statsu  us[?2004l
-]633;C]633;E;git statusOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   terminal_data.txt[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hvvi v  lls -a[?2004l
-]633;C]633;E;ls -a.			..			.git			.gitignore		demopy.py		terminal_data.txt
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hlls -a  l  vvi .gitignore[?2004l
-]633;C]633;E;vi .gitignore[?1049h[>4;2m[?1h=[?2004h[?1004h[1;15r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[15;1H".gitignore" 1L, 19B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H.terminal_data.txt
-[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[27m[29m[m[H[2J[?25l[1;1H.terminal_data.txt
-[94m~                                                                                                                                                    [3;1H~                                                                                                                                                    [4;1H~                                                                                                                                                    [5;1H~                                                                                                                                                    [6;1H~                                                                                                                                                    [7;1H~                                                                                                                                                    [8;1H~                                                                                                                                                    [9;1H~                                                                                                                                                    [10;1H~                                                                                                                                                    [11;1H~                                                                                                                                                    [12;1H~                                                                                                                                                    [13;1H~                                                                                                                                                    [14;1H~                                                                                                                                                    [m[15;1H".gitignore" 1L, 19B[1;1H[?25h.te[?25l[15;1H/\<terminal_data\> [15;20H[K[15;1H[38;5;224msearch hit BOTTOM, continuing at TOP[1;2H[?25h[?25l[m[15;1H[1m-- INSERT --[m[15;13H[K[1;2H[?25h[?25l*.terminal_data.txt*[?25h[15;1H[K[1;1H[?25l[?25h[?25l[15;1H:[?25hwq[?25l[?2004l[>4;m".gitignore" 1L, 20B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hvi .gitignore[13Dls -a        [8Dgit statuscommit -m ".gitignore added"[28Dstatus                      [22D[?2004l
-]633;C]633;E;git statusOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   .gitignore[m
-	[31mmodified:   terminal_data.txt[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit status[10Dvi .gitignore[13Dls -a        [8Dgit statuscommit -m ".gitignore added"[28Dstatus                      [22Dadd . [?2004l
-]633;C]633;E;git add .[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit add .status[10Dvi .gitignore[13Dgit status   [?2004l
-]633;C]633;E;git statusOn branch master
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mmodified:   .gitignore[m
-	[32mmodified:   terminal_data.txt[m
-
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hgit statusadd . status[10Dvi .gitignore[13Dls -a        [8Dgit status      commit -m "updated  i ed gitignore "[?2004l
-]633;C]633;E;git commit -m "updated gitignore"[master b5a4668] updated gitignore
- Committer: Aayush Bhatt <aayushbhatt@Aayushs-MacBook-Pro.local>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
-
-    git config --global --edit
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 2 files changed, 63 insertions(+), 2 deletions(-)
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit status[?2004l
-]633;C]633;E;git statusOn branch master
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                                                                                     ]633;D;0]633;P;Cwd=/Users/aayushbhatt/Desktop/demo_repo[0m[27m[24m[J]633;Aaayushbhatt@Aayushs-MacBook-Pro demo_repo % ]633;B[K[?2004hggit  g  ggit g  eexit[?2004l
-]633;C]633;E;exit
-Script done on Wed Nov 23 14:44:29 2022
